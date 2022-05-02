@@ -1,0 +1,27 @@
+{
+ "explorer.confirmDelete": false,
+ "javascript.updateImportsOnFileMove.enabled": "always",
+ "gitlens.views.repositories.files.layout": "list",
+ "editor.suggestSelection": "first",
+ "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+ "java.configuration.checkProjectSettingsExclusions": false,
+ "java.configuration.updateBuildConfiguration": "automatic",
+ "editor.tabSize": 2,
+ "editor.renderControlCharacters": true,
+ "java.errors.incompleteClasspath.severity": "ignore",
+ "editor.formatOnSave": true,
+ "window.zoomLevel": -2,
+ "workbench.tree.indent": 2,
+ "editor.detectIndentation": false,
+ "editor.codeActionsOnSave": {
+  "source.fixAll.eslint": true
+ },
+ "eslint.validate": [
+  "javascript",
+  "js",
+  "jsx",
+  "ts"
+ ],
+ "eslint.codeActionsOnSave.rules": [],
+ "editor.autoIndent": "none"
+}
